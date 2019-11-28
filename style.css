@@ -100,12 +100,13 @@ p1 {
 #linka {
   text-decoration:none;
 }
-#link {
+#link{
   color: #000080 !important;
   text-decoration: none;
 }
 #link:hover {
-  color: #43bff0 !important;
+  color: #696969 !important;
+}
 }
 p2 {
   text-transform: normal;
