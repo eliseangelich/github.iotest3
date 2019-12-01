@@ -663,6 +663,10 @@ ul1 {
 			margin-bottom: 0.25em;
 		}
 
+                .box.style2 {
+			padding: 3em 1em 3.5em 1em;
+		}
+
 		.box.style2 .image {
 			position: relative;
 			left: 1em;
