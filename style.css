@@ -232,7 +232,7 @@ a:hover {
 		letter-spacing: -0.015em;
 	}
 ul1 {
-  font-size: 1.25em;
+  font-size: 1em;
   text-align: left;
 }
 /* Container */
@@ -665,7 +665,7 @@ ul1 {
 
 		.box.style2 .image {
 			position: relative;
-			left: 2em;
+			left: 1em;
 			top: 2em;
 			margin: -4em 0 4em -4em;
 			width: auto;
