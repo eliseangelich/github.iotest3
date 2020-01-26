@@ -131,6 +131,13 @@ p1 {
   text-decoration: none;
   padding-top: 5px;
 }
+
+a.target {
+display: block;
+    position: relative;
+    top: -250px;
+visibility: hidden;}
+
 a {
 		-moz-transition: color .2s ease-in-out;
 		-webkit-transition: color .2s ease-in-out;
