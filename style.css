@@ -128,31 +128,6 @@ p1 {
   color: #696969 !important;
 }
 
-
-#target a{
- content: '';
-  display: block;
-  height:      75px;
-  margin-top: -75px;
-  visibility: hidden;
-}
-
-#target1 a{
- content: '';
-  display: block;
-  height:      25px;
-  margin-top: -25px;
-  visibility: hidden;
-}
-
-#target2 a{
- content: '';
-  display: block;
-  height:      100px;
-  margin-top: -100px;
-  visibility: hidden;
-}
-
 a {
 		-moz-transition: color .2s ease-in-out;
 		-webkit-transition: color .2s ease-in-out;
