@@ -135,10 +135,12 @@ p1 {
 }
 
 #target a{
-display: block;
-position: relative;
-top: -250px;
-visibility: hidden;}
+ content: '';
+  display: block;
+  height:      75px;
+  margin-top: -50px;
+  visibility: hidden;
+}
 
 #target1 a{
  content: '';
