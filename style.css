@@ -126,7 +126,11 @@ p1 {
 #link:hover {
   color: #696969 !important;
 }
-	a {
+#target {
+  color: #000080 !important;
+  text-decoration: none;
+}
+a {
 		-moz-transition: color .2s ease-in-out;
 		-webkit-transition: color .2s ease-in-out;
 		-ms-transition: color .2s ease-in-out;
