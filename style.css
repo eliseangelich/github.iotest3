@@ -128,6 +128,12 @@ p1 {
   color: #696969 !important;
 }
 
+#target a {
+  padding-top: 40px;
+  margin-top: -40px;
+  display: inline-block;
+}
+
 a {
 		-moz-transition: color .2s ease-in-out;
 		-webkit-transition: color .2s ease-in-out;
