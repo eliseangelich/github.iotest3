@@ -2080,9 +2080,7 @@ ul1 {
 					border-right: solid 0.75em transparent;
 					border-top: solid 0.6em #282828;
 				}
-
-
-/*/*//*/ 
+/* test target */
 #taget a {
 			-moz-transition: background-color .2s ease-in-out;
 			-webkit-transition: background-color .2s ease-in-out;
