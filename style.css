@@ -2081,7 +2081,7 @@ ul1 {
 					border-top: solid 0.6em #282828;
 				}
 /* test target */
-#taget a {
+#target a {
 			-moz-transition: background-color .2s ease-in-out;
 			-webkit-transition: background-color .2s ease-in-out;
 			-ms-transition: background-color .2s ease-in-out;
