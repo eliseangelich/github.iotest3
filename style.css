@@ -2300,7 +2300,9 @@ ul1 {
 			}
 
 				ul.social li {
-					margin: 0.5em 0.5em 0.5em 0.5em;
+					margin: 0.25em 0.25em 0.25em 0.25em;
+          display: block;
+          float: left;
 				}
 
 					ul.social li a {
